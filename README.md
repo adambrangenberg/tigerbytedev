@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Tigerbyte’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 <!--
 **TigerbyteDev/tigerbytedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
