@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Tigerbyte's codwars stats](https://www.codewars.com/users/TigerbyteDev/badges/large)](https://www.codewars.com/users/TigerbyteDev)
 [![Tigerbyte’s github stats](https://github-readme-stats.vercel.app/api?username=tigerbytedev)](https://github.com/tigerbytedev)
 <!--
 **TigerbyteDev/tigerbytedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
